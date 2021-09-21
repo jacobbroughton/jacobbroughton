@@ -1,4 +1,4 @@
-### Hi, i'm Jacob 👋 😄
+# Hi, i'm Jacob 👋 😄
 
 ## I'm a Front End Web Developer in Charlotte, NC
 - 🛠  I'm currently building a 'reddit clone' for a personal project / skills showcase
