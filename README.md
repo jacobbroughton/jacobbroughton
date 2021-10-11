@@ -1,7 +1,6 @@
 # Hi, i'm Jacob 👋 😄
 
 ## I'm a Front End Web Developer in Charlotte, NC
-- 🛠  I'm currently building a 'reddit clone' for a personal project / skills showcase
 - 🗄  For work, i'm working on a really awesome web app utilizing react, redux, node, express, & three.js
 - ⚛️  I'm primarily a React developer
 - 🚵🏼‍♂️  I'm an avid mountain biker
