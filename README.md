@@ -25,6 +25,6 @@
 
 ### Connect with me
 
-[<img align="left" alt="My Linkedin profile" width="35px" src="assets/linkedIn.png">](linkedIn)
+[<img align="left" alt="My Linkedin profile" width="35px" src="assets/linkedIn.png">](https://www.linkedin.com/in/jacob-broughton-637189164/)
 
 [linkedIn]: "https://www.linkedin.com/in/jacob-broughton-637189164/"
