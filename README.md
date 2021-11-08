@@ -1,8 +1,8 @@
 # Hi, i'm Jacob 👋
 
 ## I'm a Front End Web Developer in Charlotte, NC
-- 🗄  For work, i'm working on a really awesome web app utilizing react, redux, node, express, & three.js
-- ⚛️  I'm primarily a React developer
+- ⚛️  I work at Lowe's Companies Inc. as a web developer
+- 👌 I love Javascript. React is my go-to, and i'm really enjoying working with Next.js
 - 🚵🏼‍♂️  I'm an avid mountain biker
 
 
