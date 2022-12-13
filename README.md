@@ -1,8 +1,10 @@
 ## Hi, i'm Jacob 👋
 
-- ⚛️  I work at Lowe's Companies Inc. as a web developer
-- 🚵🏼‍♂️  I'm an avid mountain biker and love to play PC
-- 📈  Really into finance stuff
+4 years ago I started this journey of learning the ways of the web with a 'Full Stack Web Development' bootcamp at UNCC.
+
+At work, I create applications using React & Redux, PHP, SQL / SQL Server, and of course CSS.
+
+While i'm not working, I love to mountain bike. Mainly jumping and riding downhill / enduro trails. Cars are cool too, right now I'm working on a 1995 Miata (first project, but an interesting one for sure).
 
 
 ### Tech
