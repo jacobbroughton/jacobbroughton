@@ -1,5 +1,5 @@
-## Hi, i'm Jacob
-### I'm a web developer at Lowe's Companies, Inc., and living in Charlotte, NC.
+
+### Hi, i'm Jacob. I'm a web developer at Lowe's Companies, Inc., and living in Charlotte, NC.
 
 4 years ago I started this journey of learning the ways of the web with a 'Full Stack Web Development' bootcamp at UNCC.
 
