@@ -5,7 +5,7 @@ About 5 years ago I started learning how to code at a 'Full Stack Web Developmen
 
 For personal projects, I like to use build stuff with React, Redux, and Node.js / Express / MySQL backends. I have recently started a [youtube channel](https://www.youtube.com/channel/UCnHjcw_ZQwEQAUbXPbUecWA) where I help beginners learn how to code as well. Make sure to check out the portfolio page to see some of my personal projects.
 
-At work, I build analytics and reporting tools that various teams need. We often use React as our front-end library, Redux for state management PHP as our API layer, SQL Server for the data, and of course CSS.
+At work, I build analytics and reporting tools that various teams need. We often use React as our front-end library, Redux for state management, PHP as our API layer, SQL Server for the data, and of course CSS.
 
 While i'm not working, I love to mountain bike. Mainly jumping and riding downhill / enduro trails. Just like coding, you fall and you get right back up and do it again the next day (hopefully without the falling part). Recently i've also gotten super into riding my OneWheel, if you haven't tried one, I definitely recommend it if you get the chance.
 
