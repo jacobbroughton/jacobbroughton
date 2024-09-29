@@ -5,8 +5,6 @@
 
 For personal projects, I like to build stuff with React, Redux, and Node.js / Express / MySQL backends.
 
-At work, I build analytics and reporting tools that various teams need. We often use React as our front-end library, Redux for state management, PHP as our API layer, SQL Server for the data, and of course CSS.
-
 ### Connect with me
 
 [<img align="left" alt="My Linkedin profile" width="35px" src="assets/linkedIn.png">](https://www.linkedin.com/in/jacob-broughton-637189164/)
