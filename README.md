@@ -1,7 +1,7 @@
 
-### Hi, i'm Jacob 👨‍💻 I am a web developer currently living in Matthews, NC.
+### Hi, i'm Jacob 👨‍💻
 
-6 years ago I started learning how to code at a 'Full Stack Web Development' bootcamp at UNCC, and have been building things ever since.
+I am a software engineer working at Lowe's Companies Inc.. I currently live in Matthews, NC and specialize in web technologies.
 
 ### Connect with me
 [<img align="left" alt="My Linkedin profile" width="35px" src="assets/linkedIn.png">](https://www.linkedin.com/in/jacob-broughton-637189164/)
