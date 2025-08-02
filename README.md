@@ -3,7 +3,7 @@
 
 I am a software engineer working at Lowe's Companies Inc.. 
 
-I am an experienced web developer that has built and shipped applications that have reached 100k+ unique users and are still used each day after several years. I primarily work with front-end technologies such as React & GraphQL. You can view some of my personal projects [here](https://www.jlbroughton.com).
+I have built and shipped applications that have reached 100k+ unique users and are still used each day after several years. I primarily work with front-end technologies such as React & GraphQL. You can view some of my personal projects [here](https://www.jlbroughton.com).
 
 Over 7 years ago I started learning how to code at a 'Full Stack Web Development' bootcamp at UNCC, and have been building things ever since. I am also a student at CPCC pursuing a degree in Computer Science.
 
